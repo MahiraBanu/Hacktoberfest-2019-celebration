@@ -26,4 +26,6 @@ I [Navamani Prasath Ashwin](https://github.com/naniiuvvirus007)just recommend to
 
 I [Navamani Prasath Ashwin](https://github.com/naniiuvvirus007) recommend dont hesitate to ask doubts.
 
+I [Mahira Banu](https://github.com/MahiraBanu) would recomend to never giveup on coding, even when thigs get harder.
+
 

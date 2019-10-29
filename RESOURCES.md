@@ -71,3 +71,6 @@ I [Avishek Paul](https://github.com/avi4567) recommend [A Beginner's Python Tuto
 I [trapkka997](https://github.com/trapkka997) recommend [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html)
 
 
+I [Mahira Banu](https://github.com/MahiraBanu) recommend [Tutorialspoint](https://www.tutorialspoint.com/index.htm)
+
+
